@@ -1,4 +1,4 @@
-### Recuperar información del pokemon ditto
+### metodo get
 GET http://localhost:3000/pokemon/ditto
 
 ### Crear un Pokemon
